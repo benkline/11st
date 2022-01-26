@@ -3,31 +3,24 @@ layout: 'layouts/home.html'
 title: 'Home'
 meta:
   desc:
-    '11st-Starter-Kit is a minimal starting point for building static websites
-    with 11ty, powered by Snowpack with Tailwind CSS and Alpine.js.'
+    'Boise, Ben Kline, boisebenkline, web developer, dad, dork, blog.'
+
 intro:
-  title: 'Welcome to Your Eleventy App'
+  title: 'Hello, I am BoiseBenKline'
   desc:
-    'For a guide and recipes on how to configure / customize this project, check
-    out the <a href="https://www.11ty.dev/docs/" class="text-gray-900
-    font-medium underline">Eleventy</a> and <a href="https://www.snowpack.dev/"
-    class="text-gray-900 font-medium underline">Snowpack</a> documentation.'
+    'I am a web developer, a dad, a dork, and apparently - a blogger. Please excuse the mess, I am trying some new tech for this version of the site and it will take me a bit to get around to. Thanks for your patience! Come back soon!'
 ---
 
-## Community
+## Social Media
 
-[Eleventy](https://www.11ty.dev/news/discord/) -
-[Snowpack](https://discord.com/invite/snowpack) - [Tailwind
-CSS](https://tailwindcss.com/discord) - [Alpine.js](https://discord.gg/CGmj5nq)
+[Email](mailto:benkline@gmail.com) -
+[Github](https://github.com/boisebenkline) -
+[Twitter](https://twitter.com/boisebenkline) -
+[LinkedIn](https://www.linkedin.com/in/boisebenkline/) -
+[Instagram](https://www.instagram.com/boisebenkline/) -
+[Facebook](https://www.facebook.com/boisebenkline)
 
-## Awesome
-
-[Eleventy](https://github.com/scottishstoater/awesome-eleventy) -
-[Snowpack](https://github.com/rajasegar/awesome-snowpack) - [Tailwind
-CSS](https://github.com/aniftyco/awesome-tailwindcss) -
-[Alpine.js](https://github.com/alpine-collective/awesome)
-
-## Ecosystem
+## Tech used for this site
 
 [Eleventy](https://www.11ty.dev/) - [Snowpack](https://www.snowpack.dev/) -
 [Tailwind CSS](https://tailwindcss.com/) - [Alpine.js](https://github.com/alpinejs/alpine/)
